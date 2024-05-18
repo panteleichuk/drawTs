@@ -1,4 +1,4 @@
-let square_size = window.innerWidth / 20
+let square_size = window.innerWidth / 40
 let current_color = '#FF0000'
 let square_html = `<div class="square" style="width: ${square_size}px; height: ${square_size}px"></div>`
 let container = document.querySelector('.container')
