@@ -55,6 +55,6 @@ document.addEventListener('mouseup', function() {
 
 clear_btn.addEventListener('click', function() {
     for (let i = 0; i < squares.length; i+=1) {
-        squares[i].style.background = 'black'
+        squares[i].style.background = 'white'
     }
 })
